@@ -321,7 +321,7 @@ namespace Gofishing
 				string text47 = args.Parameters[0];
 				string text48 = text47;
 				string text49 = text48;
-				uint num34 = <PrivateImplementationDetails>.ComputeStringHash(text49);
+				uint num34 = PrivateImplementationDetails.ComputeStringHash(text49);
 				int num35;
 				if (num34 <= 2519019730U)
 				{
