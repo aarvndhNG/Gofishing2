@@ -10,7 +10,7 @@ internal class Config
 // Token: 0x17000001 RID: 1
 // (get) Token: 0x06000001 RID: 1 RVA: 0x00002050 File Offset: 0x00000250
 // (set) Token: 0x06000002 RID: 2 RVA: 0x00002058 File Offset: 0x00000258
-public catch rewards[] catch rewards { get; set; } = new catch rewards[]
+public catch rewards { get; set; } = new catch rewards[]
 {
 new catch reward()
 };
